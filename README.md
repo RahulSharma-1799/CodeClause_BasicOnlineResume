@@ -33,6 +33,9 @@ JAVASCRIPT
 
  
  ##  Screenshots
+ --- -
+![r](https://github.com/RahulSharma-1799/CodeClause_BasicOnlineResume/assets/110728597/a5b7101c-94ac-4fb9-a8fb-ab356d03f941)
+--- -
 
 ## Author
 - Github: [RahulSharma](https://github.com/RahulSharma-1799)
